@@ -1,0 +1,29 @@
+[README_Test_Cases.md](https://github.com/user-attachments/files/28124953/README_Test_Cases.md)
+# 🧪 Test Cases
+
+This folder contains functional test cases for web and API testing scenarios.  
+All examples are based on public applications for portfolio purposes.
+
+---
+
+## 📋 Index
+
+| File | Module | Description |
+|------|--------|-------------|
+| `TC_Login.md` | Login | Positive and negative login flow test cases |
+| `TC_Register.md` | Register | User registration validation test cases |
+| `TC_API_Users.md` | API | Test cases for `/users` endpoint |
+
+---
+
+## 📐 Test Case Format
+
+| Field | Description |
+|-------|-------------|
+| **ID** | Unique identifier (e.g. TC-001) |
+| **Title** | Short description of what is being tested |
+| **Preconditions** | Required state before test execution |
+| **Steps** | Step-by-step actions to perform |
+| **Expected Result** | What should happen |
+| **Priority** | High / Medium / Low |
+| **Result** | Pass / Fail / Pending |
